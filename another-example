@@ -1,0 +1,8 @@
+Start-Process msedge https://www.youtube.com/watch?v=CVsbTCdTyAM
+
+# $a = Get-Date
+
+# $a | Get-Member -MemberType Property
+# $a.Date
+# $a.TimeOfDay.Hours
+# $a | Get-Member -MemberType Property -Static
